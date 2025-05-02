@@ -2,6 +2,13 @@
 
 Yet another library to read buttons from NES (aka Famicom, aka Dendy) gamepad.  
 
+## Installation
+
+- Download this repo as `.zip` file: https://github.com/IvoryRubble/ArduinoNesGamepadLibrary/archive/master.zip  
+- In the Arduino IDE select `Sketch` > `Include Library` > `Add .ZIP Library...`. Browse to where the downloaded ZIP file is located and click `Open`. The NesGamepad library's examples will now appear under `File` > `Examples` > `NesGamepad`.  
+
+Or simply open library manager in Arduino IDE (`Tools` > `Manage Libraries`) and search for `NesGamepad`.
+
 ## Sources
 
 Protocol description:  

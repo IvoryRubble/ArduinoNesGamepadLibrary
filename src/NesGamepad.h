@@ -37,6 +37,8 @@
 //
 // Or simply open library manager in Arduino IDE (Tools > Manage Libraries) and search for NesGamepad.
 //
+// Library is also available in PlatformIO registry:  
+// https://registry.platformio.org/libraries/ivoryrubble/NesGamepad   
 // -----------------------------------------------------------------------------
 // Sources:
 //

@@ -1,6 +1,11 @@
+// Read buttons from gamepad and print buttons states to serial port
+
 #include <NesGamepad.h>
 
-NesGamepad gamepad(A0, A1, A2);
+const int latchPin = A0;
+const int pulsePin = A1;
+const int dataPin = A2;
+NesGamepad gamepad(latchPin, pulsePin, dataPin);
 
 const char* btnNames[gamepad.btnsCount] = {
   "A",

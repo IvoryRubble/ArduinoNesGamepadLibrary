@@ -1,5 +1,7 @@
 # NesGamepad  
 
+[![.github/workflows/arduino-lint.yml](https://github.com/IvoryRubble/ArduinoNesGamepadLibrary/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/IvoryRubble/ArduinoNesGamepadLibrary/actions/workflows/arduino-lint.yml)    
+
 Yet another library to read buttons from NES (aka Famicom, aka Dendy) gamepad.  
 
 ## Installation

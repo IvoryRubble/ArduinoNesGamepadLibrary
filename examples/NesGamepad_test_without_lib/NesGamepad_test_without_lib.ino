@@ -1,4 +1,4 @@
-// No actually a NesGamepad library example but juat reading buttons from NES gamepad and print to serial port
+// No actually a NesGamepad library example but just reading buttons from NES gamepad and print to serial port
 // also blink led
 
 const int latchPin = A0;
